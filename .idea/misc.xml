@@ -3,15 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/colornavigation.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/ellipse.xml" value="0.3828125" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/shape.xml" value="0.3828125" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/shape_button.xml" value="0.3828125" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/shape_button2.xml" value="0.3828125" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/drawable/shape_button3.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.33" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_sign_in.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

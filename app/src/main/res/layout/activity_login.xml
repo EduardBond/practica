@@ -121,7 +121,7 @@
         android:background="@drawable/shape_button3"
         android:text="Login"
         android:textAllCaps="false"
-        android:onClick="SignIn"
+        android:onClick="Login"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
