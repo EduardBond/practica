@@ -9,4 +9,5 @@ object myRetrofit {
         .addConverterFactory(GsonConverterFactory.create())
         .build()
         .create(retApi::class.java)
+       // .show()
 }
