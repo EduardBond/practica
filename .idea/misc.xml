@@ -14,6 +14,10 @@
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/activity_sign_in.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/food_adapter.xml" value="0.67" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/fragment_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/layout/fragment_notifications.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/NP-106/Documents/practica/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>
